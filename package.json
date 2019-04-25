@@ -16,5 +16,16 @@
   "bugs": {
     "url": "https://github.com/criptopreto/copy-app/issues"
   },
-  "homepage": "https://github.com/criptopreto/copy-app#readme"
+  "homepage": "https://github.com/criptopreto/copy-app#readme",
+  "dependencies": {
+    "cross-env": "^5.2.0",
+    "docxtemplater": "^3.10.1",
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4",
+    "fs-extra": "^7.0.1",
+    "jszip": "^2.6.1",
+    "jszip-utils": "0.0.2",
+    "mongoose": "^5.5.3",
+    "morgan": "^1.9.1"
+  }
 }
